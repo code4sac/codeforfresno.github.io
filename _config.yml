@@ -1,9 +1,9 @@
 # Site settings
-title: Code for Hawaii | Code for America Brigade
-email: info@codeforhawaii.org
-url: http://codeforhawaii.org
-description: "Code for Hawaii is a Code for America Brigade.  We are volunteers interested in open data, open knowledge, civic apps, big data, data visualization, APIs and the application of technology to make our communities better.  We encourage civic engagement and collaboration with our local government."
-keywords: "code for hawaii, code, hawaii, civic apps, open data, data visualization, apis, application of technology, technology, code for america"
+title: Code for Fresno | Code for America Brigade
+email: info@codeforfresno.org
+url: http://codeforfresno.org
+description: "Code for Fresno is a Code for America Brigade.  We are volunteers interested in open data, open knowledge, civic apps, big data, data visualization, APIs and the application of technology to make our communities better.  We encourage civic engagement and collaboration with our local government."
+keywords: "code for fresno, code, fresno, civic apps, open data, data visualization, apis, application of technology, technology, code for america"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,16 +11,16 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Code for Hawaii
+footer: Code for Fresno
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/codeforhawaii
+    url: https://twitter.com/codeforfresno
   - title: github
-    url: https://github.com/codeforhawaii
+    url: https://github.com/codeforfresno
   - title: facebook
-    url: https://facebook.com/codeforhawaii
+    url: https://facebook.com/codeforfresno
 
 # Build settings
 markdown: kramdown

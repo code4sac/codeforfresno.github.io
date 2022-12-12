@@ -1,9 +1,9 @@
-[![Build Status](https://travis-ci.org/CodeforHawaii/codeforhawaii.github.io.svg)](https://travis-ci.org/CodeforHawaii/codeforhawaii.github.io)
-[![Stories in Ready](https://badge.waffle.io/codeforhawaii/codeforhawaii.org.png?label=ready&title=Ready)](https://waffle.io/codeforhawaii/codeforhawaii.org)
+[![Build Status](https://travis-ci.org/CodeforFresno/codeforfresno.github.io.svg)](https://travis-ci.org/CodeforFresno/codeforfresno.github.io)
+[![Stories in Ready](https://badge.waffle.io/codeforfresno/codeforfresno.org.png?label=ready&title=Ready)](https://waffle.io/codeforfresno/codeforfresno.org)
 
-# Code for Hawaii Website
+# Code for Fresno Website
 
-Our website @ http://codeforhawaii.org
+Our website @ http://codeforfresno.org
 
 ## Want to help out?
 
