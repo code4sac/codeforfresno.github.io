@@ -1,6 +1,6 @@
 # Site settings
 title: Code for Fresno | Code for America Brigade
-email: info@codeforfresno.org
+email: mcnorris@codeforfresno.org
 url: http://codeforfresno.org
 description: "Code for Fresno is a Code for America Brigade.  We are volunteers interested in open data, open knowledge, civic apps, big data, data visualization, APIs and the application of technology to make our communities better.  We encourage civic engagement and collaboration with our local government."
 keywords: "code for fresno, code, fresno, civic apps, open data, data visualization, apis, application of technology, technology, code for america"
@@ -16,11 +16,13 @@ footer: Code for Fresno
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/codeforfresno
+    url: https://twitter.com/openfresno
+  - title: meetup
+    url: https://www.meetup.com/openfresno
   - title: github
-    url: https://github.com/codeforfresno
+    url: https://github.com/openfresno
   - title: facebook
-    url: https://facebook.com/codeforfresno
+    url: https://www.facebook.com/openfresno
 
 # Build settings
 markdown: kramdown
